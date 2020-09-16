@@ -76,3 +76,4 @@ let founder = "Vitalik Buterin"
 console.log(founder.concat(" is"," Ethereum's"," Founder."))
 console.log(founder.startsWith("V"))
 console.log(founder.endsWith("n"))
+console.log(founder.search("k"))
