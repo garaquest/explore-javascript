@@ -87,3 +87,6 @@ console.log(n)
 console.log(typeof n)
 nInt = parseInt(n)
 console.log(typeof nInt)
+let m = "8"
+mInt = Number(m)
+console.log(typeof mInt)
