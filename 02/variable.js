@@ -15,3 +15,4 @@ console.log(PI)
 
 console.log(Math.round(PI))
 console.log(Math.ceil(PI))
+console.log(Math.floor(PI))
