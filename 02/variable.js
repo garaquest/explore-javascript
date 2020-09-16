@@ -24,3 +24,16 @@ let firstname = "Satoshi"
 let space = " "
 let lastname = "Nakamoto"
 console.log(firstname + space + lastname)
+
+let lang = 'Javascript'
+console.log(lang.length)
+console.log(lang[0])
+console.log(lang[1])
+console.log(lang[2])
+console.log(lang[3])
+console.log(lang[4])
+console.log(lang[5])
+console.log(lang[6])
+console.log(lang[7])
+console.log(lang[8])
+console.log(lang[9])
