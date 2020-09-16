@@ -7,3 +7,7 @@ console.log(num == numbers)
 
 num = numbers
 console.log(num == numbers)
+
+
+let PI = 3.14
+console.log(PI)
