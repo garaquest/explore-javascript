@@ -19,3 +19,8 @@ console.log(Math.floor(PI))
 
 let randomnum = Math.random()
 console.log(randomnum)
+
+let firstname = "Satoshi"
+let space = " "
+let lastname = "Nakamoto"
+console.log(firstname + space + lastname)
