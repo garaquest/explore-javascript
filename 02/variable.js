@@ -78,3 +78,5 @@ console.log(founder.startsWith("V"))
 console.log(founder.endsWith("n"))
 console.log(founder.search("k"))
 console.log(founder.match("B"))
+let regex = /\d+/
+console.log(founder.match(regex))
