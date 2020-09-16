@@ -69,3 +69,4 @@ console.log(song.charCodeAt(2))
 
 let book = "Gun, Germ, and Steel"
 console.log(book.indexOf("Gun"))
+console.log(book.lastIndexOf("Germ"))
