@@ -46,3 +46,9 @@ console.log(lang.substr(4,6))
 console.log(lang.substring(0,3))
 
 console.log(lang.split(""))
+
+let word = "   google"
+
+console.log(word)
+
+console.log(word.trim(" "))
