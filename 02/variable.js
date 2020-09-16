@@ -95,3 +95,8 @@ let o = "9"
 let oInt = +o
 console.log(oInt)
 console.log(typeof oInt)
+
+let p = "10.5"
+let pFloat = parseFloat(p)
+console.log(pFloat)
+console.log(typeof pFloat)
