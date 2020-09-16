@@ -52,3 +52,8 @@ let word = "   google"
 console.log(word)
 
 console.log(word.trim(" "))
+
+let city = "New York"
+
+console.log(city.includes("York"))
+console.log(city.includes("york"))
