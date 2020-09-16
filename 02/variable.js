@@ -9,5 +9,6 @@ num = numbers
 console.log(num == numbers)
 
 
-let PI = 3.14
+
+const PI = Math.PI
 console.log(PI)
