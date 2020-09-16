@@ -12,3 +12,5 @@ console.log(num == numbers)
 
 const PI = Math.PI
 console.log(PI)
+
+console.log(Math.round(PI))
