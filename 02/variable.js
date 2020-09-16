@@ -80,3 +80,4 @@ console.log(founder.search("k"))
 console.log(founder.match("B"))
 let regex = /\d+/
 console.log(founder.match(regex))
+console.log(founder.repeat(10))
