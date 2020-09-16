@@ -85,8 +85,13 @@ console.log(founder.repeat(10))
 let n = "7"
 console.log(n)
 console.log(typeof n)
-nInt = parseInt(n)
+let nInt = parseInt(n)
 console.log(typeof nInt)
 let m = "8"
-mInt = Number(m)
+let mInt = Number(m)
 console.log(typeof mInt)
+
+let o = "9"
+let oInt = +o
+console.log(oInt)
+console.log(typeof oInt)
