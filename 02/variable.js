@@ -81,3 +81,9 @@ console.log(founder.match("B"))
 let regex = /\d+/
 console.log(founder.match(regex))
 console.log(founder.repeat(10))
+
+let n = "7"
+console.log(n)
+console.log(typeof n)
+nInt = parseInt(n)
+console.log(typeof nInt)
