@@ -60,3 +60,8 @@ console.log(city.includes("york"))
 
 let sentence = "Learning Javascript"
 console.log(sentence.replace("Javascript","NodeJS"))
+
+let song = "Tertinggalkan Waktu"
+console.log(song.charAt(2))
+let lastIndex = song.length - 1
+console.log(song.charAt(lastIndex))
