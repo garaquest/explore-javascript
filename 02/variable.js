@@ -44,3 +44,5 @@ console.log(country.toUpperCase())
 console.log(lang.substr(4,6))
 
 console.log(lang.substring(0,3))
+
+console.log(lang.split(""))
