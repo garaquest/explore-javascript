@@ -40,3 +40,5 @@ console.log(lang[9])
 
 let country = 'indonesia'
 console.log(country.toUpperCase())
+
+console.log(lang.substr(4,6))
