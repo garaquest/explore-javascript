@@ -66,3 +66,6 @@ console.log(song.charAt(2))
 let lastIndex = song.length - 1
 console.log(song.charAt(lastIndex))
 console.log(song.charCodeAt(2))
+
+let book = "Gun, Germ, and Steel"
+console.log(book.indexOf("Gun"))
