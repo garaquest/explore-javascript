@@ -37,3 +37,6 @@ console.log(lang[6])
 console.log(lang[7])
 console.log(lang[8])
 console.log(lang[9])
+
+let country = 'indonesia'
+console.log(country.toUpperCase())
