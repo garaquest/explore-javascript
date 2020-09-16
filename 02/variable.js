@@ -57,3 +57,6 @@ let city = "New York"
 
 console.log(city.includes("York"))
 console.log(city.includes("york"))
+
+let sentence = "Learning Javascript"
+console.log(sentence.replace("Javascript","NodeJS"))
